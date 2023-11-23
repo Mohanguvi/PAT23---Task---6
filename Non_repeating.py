@@ -19,4 +19,4 @@ for num in Given_list:
         break
 
 # Print the result
-print(first_non_repeating)
+print("The first non-repeating element is :", first_non_repeating)
